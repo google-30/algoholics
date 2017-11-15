@@ -5,7 +5,8 @@ int a[1000001],size[1000001];
 vector<int>res;
 
 int root(int i)
-{
+{   // path compression technique 
+	//directly jumping to the grandparent .
     while(a[i] != i)
        {  
            a[i] = a[a[i]];
@@ -24,6 +25,8 @@ bool find(int u,int v)
        return false;         // not connected
     
 }
+
+// union by rank algorithm
 void weighted_union(int u,int v)
 {
     int root_u = root(u);
