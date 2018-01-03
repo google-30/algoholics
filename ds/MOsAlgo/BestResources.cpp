@@ -7,9 +7,16 @@ https://www.hackerearth.com/practice/notes/mos-algorithm/
 
 Problems
 
-1: http://www.spoj.com/problems/DQUERY
-2: http://www.spoj.com/problems/ZQUERY/
-3: http://codeforces.com/contest/86/problem/D  (POWERFULL ARRAYS)
-4: https://www.codechef.com/problems/IITI15 (Sherlock and Inversions)
+1: (DISTICT COUNT)
+http://www.spoj.com/problems/DQUERY
+
+2: (SUB ARRAY MAX LENGTH WITH SUM ZERO)
+http://www.spoj.com/problems/ZQUERY/
+
+3:(POWERFULL ARRAYS)
+http://codeforces.com/contest/86/problem/D 
+
+4: (Sherlock and Inversions)
+https://www.codechef.com/problems/IITI15
 
 
