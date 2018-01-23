@@ -1,3 +1,5 @@
+// QUESTION lINK : http://codeforces.com/problemset/problem/277/A
+
 #include <iostream>
 #include<cstring>
 #include<vector>
