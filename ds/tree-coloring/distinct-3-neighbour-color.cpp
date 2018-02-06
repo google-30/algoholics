@@ -1,3 +1,5 @@
+//problem link : http://codeforces.com/problemset/problem/780/C
+
 #include <iostream>
 #include<cstring>
 #include<vector>
@@ -46,7 +48,7 @@ int main() {
           ans = max(ans,temp);
       }
       
-      cout<<ans<<endl;
+      cout<<ans+1<<endl;
       
       for(i=1;i<=n;i++)
         cout<<col[i]<<" ";
