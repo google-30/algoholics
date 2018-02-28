@@ -12,7 +12,7 @@ ll maxXOR(ll l,ll r)
         c++;
     }
     
-    ans = (1<<c);
+    ans = (1ll<<c);
     ans--;
     return ans;
 }
